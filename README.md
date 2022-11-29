@@ -26,7 +26,7 @@ service
 
 
 ---
-  <p align="center"> Introducing SamTech, SamTech is designed to bring a whole new level of excitement to your boring WhatsApp use. </p
+  <p align="center"> Introducing SamTech, SamTech is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
  
 ## Deployment Method 
 ---
