@@ -1,22 +1,16 @@
-77th# SAM TECH BOT
+# SAM TECH BOT
 
-
+---
 
 -  A whatsapp bot for free
 -  Enjoy SAM OCHU TECHNOLOGY BRAND
 service
 
-#  You can fork bro
 
-- Click [FORK](https://github.com/SAM-OCHUU/Samtech-bot/fork)
-
-
-
+---
 
   
 <p align="center">  
-  <a href="https://citel.vercel.app/">
-    <img alt="secktor docs" height="300" src="
     <h1 align="center">Sam tech Whatsapp bot</h1>
   </a>
 </p>
@@ -32,13 +26,9 @@ service
 
 
 ---
-
-<p align="center"><img src="https://profile-counter.glitch.me/{SamPandey001}/count.svg" alt="SamPandey001 :: Visitor's Count" /></p>
-
-  <p align="center"> Introducing Secktor,Secktor is designed to bring a whole new level of excitement to your boring WhatsApp use. </p
+  <p align="center"> Introducing SamTech, SamTech is designed to bring a whole new level of excitement to your boring WhatsApp use. </p
  
-- Install [External Plugins](https://github.com/SamPandey001/Secktor-Plugins)
-## Deployment Method for Heroku
+## Deployment Method 
 ---
 1. Click [SCAN](        ) and scan QR code. `Whatapp>Three dots>Linked Devices`
 2. You will get a session id in whatsapp, copy id only.
@@ -55,8 +45,8 @@ service
 
 14. SUPPORT GROUP: <a href="https://chat.whatsapp.com/Bl2F9UTVU4CBfZU6eVnrbCl"><img alt="WhatsApp" src="https://camo.githubusercontent.com/2157131829ac512183ee8f8b6c6f803688a4cc66a2e686602844e80478401a7c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6f696e2047726f75702d3235443336363f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070266c6f676f436f6c6f723d7768697465"/></a>
 
-15. Star ⭐ repo if you like Samtech.
-### Thanks To
+15. Star ⭐ repo if you like SamTech my job.
+### Thanks To my bro
 
 - [ALKADO](https://t.me/ak) for support
 
