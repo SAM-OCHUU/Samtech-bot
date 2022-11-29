@@ -82,9 +82,9 @@ install_packages
 clear
 figlet Secktor
 echo "Cloning SAM-OCHUU git repo..."
-read -p "Enter Your github username: " secktor
-git clone https://github.com/"${SamTech}"/Secktor-Md
-cd Secktor-Md
+read -p "Enter Your github username: " Samtech
+git clone https://github.com/"${SamTech}"/Samtech-bot
+cd Samtech-bot
 clear
 echo "Installing required packages,it will take time..."
 pauseagain() {
@@ -99,7 +99,7 @@ clear
 echo "Installed packages.."
 echo "Starting Bot Server..."
 clear
-figlet Secktor
+figlet Samtech
 read -p "Enter Your Owner Number: " owner
 echo "OWNER_NUMBER=${owner}" >> config.env
 #--------------------------------------------
@@ -115,7 +115,7 @@ read -n1 -r -p "Press any key to continue..." key
 clear
 figlet SpeedY
 echo "TheSpeedY"
-echo "To stop bot: ctrl+c then npm stop secktor"
+echo "To stop bot: ctrl+c then npm stop Samtech"
 npm start
 
 
