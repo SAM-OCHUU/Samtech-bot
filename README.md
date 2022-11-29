@@ -8,4 +8,4 @@ service
 
 #  You can fork bro
 
-- Click [FORK](https://github.com/SAM-OCHUU/Secktor-bot/fork)
+- Click [FORK](https://github.com/SAM-OCHUU/Samtech-bot/fork)
